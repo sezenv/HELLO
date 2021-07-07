@@ -1,6 +1,7 @@
 ---
 ---
 
+@import "{{ site.theme }}"; 
 a {
   color:#b64276;
   font-weight:400;
@@ -40,5 +41,5 @@ header {
     margin: 0px;
   }
 }
-@import 'jekyll-theme-leap-day'; 
+
 
