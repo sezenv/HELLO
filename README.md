@@ -1,11 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to my resume website
 
 You can use the [editor on GitHub](https://github.com/sezenv/portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
+### **EDUCATION**
+Visiting Graduate Student | Icahn School of Medicine at Mount Sinai | 2016-2017
+Ph.D. in Biomedical Sciences and Engineering | Koç University | 2013-2017						
+M.D. | Ankara University | 2004-2011
+### **SKILLS**
+### **WORK EXPERIENCE**
+### **PUBLICATIONS**
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
