@@ -7,11 +7,12 @@ You can use the [editor on GitHub](https://github.com/sezenv/portfolio/edit/main
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### **EDUCATION**
+# **EDUCATION**
 - Visiting Graduate Student | Icahn School of Medicine at Mount Sinai | 2016-2017
 - Ph.D. in Biomedical Sciences and Engineering | Koç University | 2013-2017
 - M.D. | Ankara University | 2004-2011
-### **SKILLS**
+
+# **SKILLS**
 - Bioinformatics
 - Target discovery
 - Structure-based drug design
@@ -26,14 +27,25 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Chemoinformatic Analysis
 - Machine Learning
 - Presicion Medicine
-### **PROGRAMMING LANGUAGES**
+## **PROGRAMMING LANGUAGES**
 R, Python, Matlab, Bash scripting, High-performance computing
-### **TOOLS**
+## **TOOLS**
 Scikit-learn, RDKit, DeepChem, PyBioMed, Schrodinger Drug Discovery Platform, Autodock, Molegro, GOLD, NAMD, Amber, VMD, PyMol, Modeller
 ### **WORK EXPERIENCE**
+- ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI | Postdoctoral Fellow| 2017– present
+- ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI | Associate Researcher | 2016– 2017
+- KOC UNIVERSITY | Research & Teaching Assistant | 2013– 2017
+- ARES OCCUPATIONAL HEALTH CENTER, TURKEY | Occupational Health Physician | 2013-2014
+- SARKOY STATE HOSPITAL, TURKEY | Family Physician | 2011-2013 
+- SECONDA UNIVERSITA DI NAPOLI, ITALY | Physician Intern | 04.2011 – 08.2011		
+- ANKARA UNIVERSITY, TURKEY | Physician Intern | 05.2010 – 04.2011
+
 
 ### **PUBLICATIONS**
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### **TEACHING**
+Courses: Drug Design, Thermodynamics, Public Health, Organic Chemistry
+### **REVIEWER**
 
 ```markdown
 Syntax highlighted code block
