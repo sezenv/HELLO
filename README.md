@@ -12,8 +12,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - **Ph.D. in Biomedical Sciences and Engineering** | Koç University | 2013-2017
 - **M.D.** | Ankara University | 2004-2011
 
-
-
 # **SKILLS**
 - Bioinformatics
 - Target discovery
@@ -29,9 +27,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Chemoinformatic Analysis
 - Machine Learning
 - Presicion Medicine
+
 # **PROGRAMMING LANGUAGES**
 R, Python, Matlab, Bash scripting, High-performance computing
-## **TOOLS**
+# **TOOLS**
 Scikit-learn, RDKit, DeepChem, PyBioMed, Schrodinger Drug Discovery Platform, Autodock, Molegro, GOLD, NAMD, Amber, VMD, PyMol, Modeller
 # **WORK EXPERIENCE**
 - ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI| Postdoctoral Fellow | 2017–present
@@ -41,7 +40,6 @@ Scikit-learn, RDKit, DeepChem, PyBioMed, Schrodinger Drug Discovery Platform, Au
 - SARKOY STATE HOSPITAL, TURKEY| Family Physician | 2011-2013
 - SECONDA UNIVERSITA DI NAPOLI, ITALY| Physician Intern | 04.2011–08.2011
 - ANKARA UNIVERSITY, TURKEY| Physician Intern | 05.2010–04.2011
-
 
 # **PUBLICATIONS**
 1. [Artificial intelligence and machine learning‐aided drug discovery in central nervous system diseases: State‐of‐the‐arts and future directions](https://pubmed.ncbi.nlm.nih.gov/33295676/), Vatansever S., et. al, Medicinal Research Reviews, 2020.
