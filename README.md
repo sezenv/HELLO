@@ -32,13 +32,13 @@ R, Python, Matlab, Bash scripting, High-performance computing
 ## **TOOLS**
 Scikit-learn, RDKit, DeepChem, PyBioMed, Schrodinger Drug Discovery Platform, Autodock, Molegro, GOLD, NAMD, Amber, VMD, PyMol, Modeller
 # **WORK EXPERIENCE**
-- ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI | Postdoctoral Fellow | 2017–present
-- ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI | Associate Researcher | 2016–2017
+- ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI| Postdoctoral Fellow | 2017–present
+- ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI| Associate Researcher | 2016–2017
 - KOC UNIVERSITY | Research&Teaching Assistant | 2013–2017
-- ARES OCCUPATIONAL HEALTH CENTER, TURKEY | Occupational Health Physician | 2013-2014
-- SARKOY STATE HOSPITAL, TURKEY | Family Physician | 2011-2013
-- SECONDA UNIVERSITA DI NAPOLI, ITALY | Physician Intern | 04.2011–08.2011
-- ANKARA UNIVERSITY, TURKEY | Physician Intern | 05.2010–04.2011
+- ARES OCCUPATIONAL HEALTH CENTER, TURKEY| Occupational Health Physician | 2013-2014
+- SARKOY STATE HOSPITAL, TURKEY| Family Physician | 2011-2013
+- SECONDA UNIVERSITA DI NAPOLI, ITALY| Physician Intern | 04.2011–08.2011
+- ANKARA UNIVERSITY, TURKEY| Physician Intern | 05.2010–04.2011
 - 
 # **PUBLICATIONS**
 1. [Artificial intelligence and machine learning‐aided drug discovery in central nervous system diseases: State‐of‐the‐arts and future directions](https://pubmed.ncbi.nlm.nih.gov/33295676/), Vatansever S., et. al, Medicinal Research Reviews, 2020.
