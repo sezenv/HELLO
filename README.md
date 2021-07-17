@@ -11,8 +11,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 >*"I will argue that computational thinking and computational methods are \
 >so central to the quest of understanding life that \
 >today all biology is computational biology." \
->                        -Florian Markowetz* \
->
+>                        -Florian Markowetz*
+>\
 
 ## **EDUCATION**
 - **Visiting Graduate Student** | Icahn School of Medicine at Mount Sinai | 2016-2017
