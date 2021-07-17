@@ -7,11 +7,14 @@ You can use the [editor on GitHub](https://github.com/sezenv/portfolio/edit/main
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
->*I will argue that computational thinking and 
->computational methods are so central to 
->the quest of understanding life that 
->today all biology is computational biology.
->     -Florian Markowetz*
+>
+>*I will argue that computational thinking and /
+>computational methods are so central to /
+>the quest of understanding life that /
+>today all biology is computational biology./
+>                        -Florian Markowetz*
+>     
+
 ## **EDUCATION**
 - **Visiting Graduate Student** | Icahn School of Medicine at Mount Sinai | 2016-2017
 - **Ph.D. in Biomedical Sciences and Engineering** | Koç University | 2013-2017
