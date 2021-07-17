@@ -1,4 +1,4 @@
-## Welcome to my resume website
+# SEZEN VATANSEVER
 # Header 1
 ## Header 2
 ### Header 3
@@ -7,12 +7,12 @@ You can use the [editor on GitHub](https://github.com/sezenv/portfolio/edit/main
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-# **EDUCATION**
+## **EDUCATION**
 - **Visiting Graduate Student** | Icahn School of Medicine at Mount Sinai | 2016-2017
 - **Ph.D. in Biomedical Sciences and Engineering** | Koç University | 2013-2017
 - **M.D.** | Ankara University | 2004-2011
 
-# **SKILLS**
+## **SKILLS**
 - Bioinformatics
 - Target discovery
 - Structure-based drug design
@@ -30,16 +30,16 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-# **PROGRAMMING LANGUAGES**
+## **PROGRAMMING LANGUAGES**
 R, Python, Matlab, Bash scripting, High-performance computing
 
 
 
-# **TOOLS**
+## **TOOLS**
 Scikit-learn, RDKit, DeepChem, PyBioMed, Schrodinger Drug Discovery Platform, Autodock, Molegro, GOLD, NAMD, Amber, VMD, PyMol, Modeller
 
 
-# **WORK EXPERIENCE**
+## **WORK EXPERIENCE**
 - ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI| Postdoctoral Fellow | 2017–present
 - ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI| Associate Researcher | 2016–2017
 - KOC UNIVERSITY | Research&Teaching Assistant | 2013–2017
@@ -48,7 +48,7 @@ Scikit-learn, RDKit, DeepChem, PyBioMed, Schrodinger Drug Discovery Platform, Au
 - SECONDA UNIVERSITA DI NAPOLI, ITALY| Physician Intern | 04.2011–08.2011
 - ANKARA UNIVERSITY, TURKEY| Physician Intern | 05.2010–04.2011
 
-# **PUBLICATIONS**
+## **PUBLICATIONS**
 1. [Artificial intelligence and machine learning‐aided drug discovery in central nervous system diseases: State‐of‐the‐arts and future directions](https://pubmed.ncbi.nlm.nih.gov/33295676/), Vatansever S., et. al, Medicinal Research Reviews, 2020.
 2. [Molecular subtyping of Alzheimer’s disease using RNA sequencing data reveals novel mechanisms and targets](https://pubmed.ncbi.nlm.nih.gov/33523961/), Neff RA, Wang M., Vatansever S., et.al., Science Advances, 2021.
 3. [Transformative Network Modeling of Multi-omics Data Reveals Detailed Circuits, Key Regulators, and Potential Therapeutics for Alzheimer’s Disease](https://pubmed.ncbi.nlm.nih.gov/33238137/), Wang M., ...Vatansever S., ...Zhang B., Neuron, 2020.
@@ -59,9 +59,9 @@ Scikit-learn, RDKit, DeepChem, PyBioMed, Schrodinger Drug Discovery Platform, Au
 8. [Antiviral activity of an N-allyl acridone against dengue virus", Journal of Biomedical Sciences](https://pubmed.ncbi.nlm.nih.gov/25908170/), Mazzucco M. B., Talarico L. B., Vatansever S., et. al, Journal of Biomedical Sciences, 2015.
 
 
-# **TEACHING**
+## **TEACHING**
 Courses: Drug Design, Thermodynamics, Public Health, Organic Chemistry
 
-# **REVIEWER**
+## **REVIEWER**
 Frontiers in Neurogenomics, Neuroscience Letters, Journal of Pediatric Neurology
 
