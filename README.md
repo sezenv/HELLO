@@ -29,12 +29,15 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - Presicion Medicine
 
 
+
 # **PROGRAMMING LANGUAGES**
 R, Python, Matlab, Bash scripting, High-performance computing
 
 
+
 # **TOOLS**
 Scikit-learn, RDKit, DeepChem, PyBioMed, Schrodinger Drug Discovery Platform, Autodock, Molegro, GOLD, NAMD, Amber, VMD, PyMol, Modeller
+
 
 # **WORK EXPERIENCE**
 - ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI| Postdoctoral Fellow | 2017–present
@@ -55,8 +58,10 @@ Scikit-learn, RDKit, DeepChem, PyBioMed, Schrodinger Drug Discovery Platform, Au
 7. [The interplay between viperin antiviral activity, lipid droplets and Junín mammarenavirus multiplication](https://pubmed.ncbi.nlm.nih.gov/29202415/), Mazzucco M. B., Talarico L. B., Vatansever S., et. al, Virology. 2018.
 8. [Antiviral activity of an N-allyl acridone against dengue virus", Journal of Biomedical Sciences](https://pubmed.ncbi.nlm.nih.gov/25908170/), Mazzucco M. B., Talarico L. B., Vatansever S., et. al, Journal of Biomedical Sciences, 2015.
 
+
 # **TEACHING**
 Courses: Drug Design, Thermodynamics, Public Health, Organic Chemistry
+
 # **REVIEWER**
 
 ```markdown
