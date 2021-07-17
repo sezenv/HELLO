@@ -12,7 +12,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 >so central to the quest of understanding life that \
 >today all biology is computational biology." \
 >                        -Florian Markowetz*
->\
+>
 
 
 ## **EDUCATION**
