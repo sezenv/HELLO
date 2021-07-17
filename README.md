@@ -11,7 +11,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 - **Visiting Graduate Student** | Icahn School of Medicine at Mount Sinai | 2016-2017
 - **Ph.D. in Biomedical Sciences and Engineering** | Koç University | 2013-2017
 - **M.D.** | Ankara University | 2004-2011
-- 
+
+
+
 # **SKILLS**
 - Bioinformatics
 - Target discovery
@@ -39,7 +41,8 @@ Scikit-learn, RDKit, DeepChem, PyBioMed, Schrodinger Drug Discovery Platform, Au
 - SARKOY STATE HOSPITAL, TURKEY| Family Physician | 2011-2013
 - SECONDA UNIVERSITA DI NAPOLI, ITALY| Physician Intern | 04.2011–08.2011
 - ANKARA UNIVERSITY, TURKEY| Physician Intern | 05.2010–04.2011
-- 
+
+
 # **PUBLICATIONS**
 1. [Artificial intelligence and machine learning‐aided drug discovery in central nervous system diseases: State‐of‐the‐arts and future directions](https://pubmed.ncbi.nlm.nih.gov/33295676/), Vatansever S., et. al, Medicinal Research Reviews, 2020.
 2. [Molecular subtyping of Alzheimer’s disease using RNA sequencing data reveals novel mechanisms and targets](https://pubmed.ncbi.nlm.nih.gov/33523961/), Neff RA, Wang M., Vatansever S., et.al., Science Advances, 2021.
