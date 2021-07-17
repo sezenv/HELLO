@@ -30,8 +30,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 # **PROGRAMMING LANGUAGES**
 R, Python, Matlab, Bash scripting, High-performance computing
+
 # **TOOLS**
 Scikit-learn, RDKit, DeepChem, PyBioMed, Schrodinger Drug Discovery Platform, Autodock, Molegro, GOLD, NAMD, Amber, VMD, PyMol, Modeller
+
 # **WORK EXPERIENCE**
 - ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI| Postdoctoral Fellow | 2017–present
 - ICAHN SCHOOL OF MEDICINE AT MOUNT SINAI| Associate Researcher | 2016–2017
