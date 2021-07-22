@@ -14,6 +14,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 >                        -Florian Markowetz*
 >
 
+## **ABOUT**
+I'm physician-scientist working in drug discovery. I want to make drug discovery more efficient and faster using computational tools. My research bridges the areas of systems biology, biophysics, medicinal chemistry and data science. I have expertise in structure- and ligand-based drug design including protein modelling, molecular dynamics, docking, chemoinformatics, machine learning, and data visualization. I apply and develop such methods to improve and accelerate the drug discovery process from the first step of target identification, all the way through to late lead optimization. My ongoing research focuses on creating integrative application pipelines that convert complex data into simple logical stories. I generate testable hypotheses, design & execute computational experiments, provide in-depth analysis and interpretation of results, and translate them into new, small molecule drug therapies using advanced computational biology methods.
 
 ## **EDUCATION**
 - **Visiting Graduate Student** | Icahn School of Medicine at Mount Sinai | 2016-2017
@@ -60,11 +62,12 @@ Scikit-learn, RDKit, DeepChem, PyBioMed, Schrodinger Drug Discovery Platform, Au
 1. [Artificial intelligence and machine learning‐aided drug discovery in central nervous system diseases: State‐of‐the‐arts and future directions](https://pubmed.ncbi.nlm.nih.gov/33295676/), Vatansever S., et. al, Medicinal Research Reviews, 2020.
 2. [Molecular subtyping of Alzheimer’s disease using RNA sequencing data reveals novel mechanisms and targets](https://pubmed.ncbi.nlm.nih.gov/33523961/), Neff RA, Wang M., Vatansever S., et.al., Science Advances, 2021.
 3. [Transformative Network Modeling of Multi-omics Data Reveals Detailed Circuits, Key Regulators, and Potential Therapeutics for Alzheimer’s Disease](https://pubmed.ncbi.nlm.nih.gov/33238137/), Wang M., ...Vatansever S., ...Zhang B., Neuron, 2020.
-4. [Comparative effects of oncogenic mutations G12C, G12V, G13D, and Q61H on local conformations and dynamics of K-Ras](https://pubmed.ncbi.nlm.nih.gov/32373288/), Computational and Structural Biotechnology Journal, 2020.
-5. [Oncogenic G12D mutation alters local conformations and dynamics of K-Ras](https://pubmed.ncbi.nlm.nih.gov/31409810/), Vatansever S., Erman B. & Gümüş Z. H., Nature Scientific Reports, 2019.
-6. [Intrinsic K-Ras dynamics: A novel molecular dynamics data analysis method shows causality between residue pairs](https://pubmed.ncbi.nlm.nih.gov/27845397/), Vatansever S., Gumus Z. H. and Erman B., Nature Scientific Reports, 2016.
-7. [The interplay between viperin antiviral activity, lipid droplets and Junín mammarenavirus multiplication](https://pubmed.ncbi.nlm.nih.gov/29202415/), Mazzucco M. B., Talarico L. B., Vatansever S., et. al, Virology. 2018.
-8. [Antiviral activity of an N-allyl acridone against dengue virus", Journal of Biomedical Sciences](https://pubmed.ncbi.nlm.nih.gov/25908170/), Mazzucco M. B., Talarico L. B., Vatansever S., et. al, Journal of Biomedical Sciences, 2015.
+4. 
+5. [Comparative effects of oncogenic mutations G12C, G12V, G13D, and Q61H on local conformations and dynamics of K-Ras](https://pubmed.ncbi.nlm.nih.gov/32373288/), Computational and Structural Biotechnology Journal, 2020.
+6. [Oncogenic G12D mutation alters local conformations and dynamics of K-Ras](https://pubmed.ncbi.nlm.nih.gov/31409810/), Vatansever S., Erman B. & Gümüş Z. H., Nature Scientific Reports, 2019.
+7. [Intrinsic K-Ras dynamics: A novel molecular dynamics data analysis method shows causality between residue pairs](https://pubmed.ncbi.nlm.nih.gov/27845397/), Vatansever S., Gumus Z. H. and Erman B., Nature Scientific Reports, 2016.
+8. [The interplay between viperin antiviral activity, lipid droplets and Junín mammarenavirus multiplication](https://pubmed.ncbi.nlm.nih.gov/29202415/), Mazzucco M. B., Talarico L. B., Vatansever S., et. al, Virology. 2018.
+9. [Antiviral activity of an N-allyl acridone against dengue virus", Journal of Biomedical Sciences](https://pubmed.ncbi.nlm.nih.gov/25908170/), Mazzucco M. B., Talarico L. B., Vatansever S., et. al, Journal of Biomedical Sciences, 2015.
 
 
 ## **TEACHING**
