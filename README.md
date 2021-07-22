@@ -59,10 +59,10 @@ Scikit-learn, RDKit, DeepChem, PyBioMed, Schrodinger Drug Discovery Platform, Au
 - ANKARA UNIVERSITY, TURKEY| Physician Intern | 05.2010–04.2011
 
 ## **PUBLICATIONS**
-1. [Artificial intelligence and machine learning‐aided drug discovery in central nervous system diseases: State‐of‐the‐arts and future directions](https://pubmed.ncbi.nlm.nih.gov/33295676/), Vatansever S., et. al, Medicinal Research Reviews, 2020.
+1. [Artificial intelligence and machine learning‐aided drug discovery in central nervous system diseases: State‐of‐the‐arts and future directions](https://pubmed.ncbi.nlm.nih.gov/33295676/), Vatansever S., et. al, Medicinal Research Reviews, 2021.
 2. [Molecular subtyping of Alzheimer’s disease using RNA sequencing data reveals novel mechanisms and targets](https://pubmed.ncbi.nlm.nih.gov/33523961/), Neff RA, Wang M., Vatansever S., et.al., Science Advances, 2021.
-3. [Transformative Network Modeling of Multi-omics Data Reveals Detailed Circuits, Key Regulators, and Potential Therapeutics for Alzheimer’s Disease](https://pubmed.ncbi.nlm.nih.gov/33238137/), Wang M., ...Vatansever S., ...Zhang B., Neuron, 2020.
-4. 
+3. [Transformative Network Modeling of Multi-omics Data Reveals Detailed Circuits, Key Regulators, and Potential Therapeutics for Alzheimer’s Disease](https://pubmed.ncbi.nlm.nih.gov/33238137/), Wang M., ...Vatansever S., ...Zhang B., Neuron, 2021.
+4. [Tissue Specific Age Dependence of the Cell Receptors Involved in the SARS-CoV-2 Infection](https://www.biorxiv.org/content/10.1101/2021.07.13.452256v1), CV Forst, L Zeng, Q Wang, X Zhou, S Vatansever, Z Tu, B Zhang, bioRxiv, 2021.
 5. [Comparative effects of oncogenic mutations G12C, G12V, G13D, and Q61H on local conformations and dynamics of K-Ras](https://pubmed.ncbi.nlm.nih.gov/32373288/), Computational and Structural Biotechnology Journal, 2020.
 6. [Oncogenic G12D mutation alters local conformations and dynamics of K-Ras](https://pubmed.ncbi.nlm.nih.gov/31409810/), Vatansever S., Erman B. & Gümüş Z. H., Nature Scientific Reports, 2019.
 7. [Intrinsic K-Ras dynamics: A novel molecular dynamics data analysis method shows causality between residue pairs](https://pubmed.ncbi.nlm.nih.gov/27845397/), Vatansever S., Gumus Z. H. and Erman B., Nature Scientific Reports, 2016.
