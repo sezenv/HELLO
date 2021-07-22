@@ -1,5 +1,6 @@
 
 # SEZEN VATANSEVER
+*physician-scientist in drug discovery*
 
 >\
 >*"I will argue that computational thinking and computational methods are \
