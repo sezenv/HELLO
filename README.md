@@ -1,19 +1,18 @@
 
----
-
 # SEZEN VATANSEVER
 
 *physician-scientist in drug discovery*
 
 ---
 
-
 >\
 >*"I will argue that computational thinking and computational methods are \
 >so central to the quest of understanding life that \
 >**today all biology is computational biology**." \
 >                        -Florian Markowetz*
->
+>\
+
+---
 
 ## **ABOUT**
 
