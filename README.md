@@ -74,6 +74,8 @@ Frontiers in Neurogenomics, Neuroscience Letters, Journal of Pediatric Neurology
 7. [Intrinsic K-Ras dynamics: A novel molecular dynamics data analysis method shows causality between residue pairs](https://pubmed.ncbi.nlm.nih.gov/27845397/), Vatansever S., Gumus Z. H. and Erman B., Nature Scientific Reports, 2016.
 8. [The interplay between viperin antiviral activity, lipid droplets and Junín mammarenavirus multiplication](https://pubmed.ncbi.nlm.nih.gov/29202415/), Mazzucco M. B., Talarico L. B., Vatansever S., et. al, Virology. 2018.
 9. [Antiviral activity of an N-allyl acridone against dengue virus", Journal of Biomedical Sciences](https://pubmed.ncbi.nlm.nih.gov/25908170/), Mazzucco M. B., Talarico L. B., Vatansever S., et. al, Journal of Biomedical Sciences, 2015.
-# AI in CNS Drug Discovery
+
+### **AI in CNS Drug Discovery**
 COVER IMAGE (https://doi.org/10.1002/med.21813)
+
 ![alt text](https://onlinelibrary.wiley.com/cms/asset/9592f583-fdd3-4f51-8c05-72bd0e45834b/med21813-gra-0001-m.jpg)
