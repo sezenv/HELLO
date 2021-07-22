@@ -96,4 +96,3 @@ COVER IMAGE (https://doi.org/10.1002/med.21813)
 sezenvatansever@gmail.com \
 [LinkedIn](www.linkedin.com/in/sezen-vatansever-md-phd-850a4898) \
 [Google Scholar](https://scholar.google.com/citations?user=JtZ7kjMAAAAJ&hl=en)
-
