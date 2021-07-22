@@ -10,7 +10,7 @@
 >so central to the quest of understanding life that \
 >**today all biology is computational biology**." \
 >                        -Florian Markowetz*
->\
+>
 
 ---
 
@@ -93,6 +93,6 @@ COVER IMAGE (https://doi.org/10.1002/med.21813)
 
 ## **CONTACT**
 
-sezenvatansever@gmail.com
-[LinkedIn](www.linkedin.com/in/sezen-vatansever-md-phd-850a4898)
-[Google Scholar](https://scholar.google.com/citations?user=JtZ7kjMAAAAJ&hl=en)
+sezenvatansever@gmail.com \
+[LinkedIn](www.linkedin.com/in/sezen-vatansever-md-phd-850a4898) \
+[Google Scholar](https://scholar.google.com/citations?user=JtZ7kjMAAAAJ&hl=en) \
