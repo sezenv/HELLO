@@ -91,8 +91,9 @@ COVER IMAGE (https://doi.org/10.1002/med.21813)
 
 ![alt text](https://onlinelibrary.wiley.com/cms/asset/9592f583-fdd3-4f51-8c05-72bd0e45834b/med21813-gra-0001-m.jpg)
 
-## **CONTACT**
+# CONTACT
 
 sezenvatansever@gmail.com \
 [LinkedIn](www.linkedin.com/in/sezen-vatansever-md-phd-850a4898) \
-[Google Scholar](https://scholar.google.com/citations?user=JtZ7kjMAAAAJ&hl=en) \
+[Google Scholar](https://scholar.google.com/citations?user=JtZ7kjMAAAAJ&hl=en)
+
