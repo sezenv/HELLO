@@ -58,6 +58,12 @@ Scikit-learn, RDKit, DeepChem, PyBioMed, Schrodinger Drug Discovery Platform, Au
 - SECONDA UNIVERSITA DI NAPOLI, ITALY| Physician Intern | 04.2011–08.2011
 - ANKARA UNIVERSITY, TURKEY| Physician Intern | 05.2010–04.2011
 
+## **TEACHING**
+Courses: Drug Design, Thermodynamics, Public Health, Organic Chemistry
+
+## **REVIEWER**
+Frontiers in Neurogenomics, Neuroscience Letters, Journal of Pediatric Neurology
+
 ## **PUBLICATIONS**
 1. [Artificial intelligence and machine learning‐aided drug discovery in central nervous system diseases: State‐of‐the‐arts and future directions](https://pubmed.ncbi.nlm.nih.gov/33295676/), Vatansever S., et. al, Medicinal Research Reviews, 2021.
 2. [Molecular subtyping of Alzheimer’s disease using RNA sequencing data reveals novel mechanisms and targets](https://pubmed.ncbi.nlm.nih.gov/33523961/), Neff RA, Wang M., Vatansever S., et.al., Science Advances, 2021.
@@ -68,12 +74,5 @@ Scikit-learn, RDKit, DeepChem, PyBioMed, Schrodinger Drug Discovery Platform, Au
 7. [Intrinsic K-Ras dynamics: A novel molecular dynamics data analysis method shows causality between residue pairs](https://pubmed.ncbi.nlm.nih.gov/27845397/), Vatansever S., Gumus Z. H. and Erman B., Nature Scientific Reports, 2016.
 8. [The interplay between viperin antiviral activity, lipid droplets and Junín mammarenavirus multiplication](https://pubmed.ncbi.nlm.nih.gov/29202415/), Mazzucco M. B., Talarico L. B., Vatansever S., et. al, Virology. 2018.
 9. [Antiviral activity of an N-allyl acridone against dengue virus", Journal of Biomedical Sciences](https://pubmed.ncbi.nlm.nih.gov/25908170/), Mazzucco M. B., Talarico L. B., Vatansever S., et. al, Journal of Biomedical Sciences, 2015.
-
-
-## **TEACHING**
-Courses: Drug Design, Thermodynamics, Public Health, Organic Chemistry
-
-## **REVIEWER**
-Frontiers in Neurogenomics, Neuroscience Letters, Journal of Pediatric Neurology
 
 ![alt text](https://onlinelibrary.wiley.com/cms/asset/9592f583-fdd3-4f51-8c05-72bd0e45834b/med21813-gra-0001-m.jpg)
