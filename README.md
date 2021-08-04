@@ -70,7 +70,7 @@ Courses: Drug Design, Thermodynamics, Public Health, Organic Chemistry
 
 ## **REVIEWER**
 
-Frontiers in Neurogenomics, Neuroscience Letters, Journal of Pediatric Neurology
+Frontiers in Neurogenomics, Journal of Chemical Information and Modeling, Neuroscience Letters, Journal of Pediatric Neurology
 
 ## **PUBLICATIONS**
 
