@@ -70,19 +70,27 @@ Courses: Drug Design, Thermodynamics, Public Health, Organic Chemistry
 
 ## **REVIEWER**
 
-Frontiers in Neurogenomics, Journal of Chemical Information and Modeling, Neuroscience Letters, Journal of Pediatric Neurology
+Frontiers in Neurogenomics, Journal of Chemical Information and Modeling, Frontiers in Cell and Developmental Biology, Neuroscience Letters, Journal of Pediatric Neurology
+
+## **CERTIFICATES**
+
+- High-Throughput Virtual Screening for Hit Finding and Evaluation, Schrödinger Online Course
+- FDA Small Business Regulatory Education for Industry (REdI), CDER Track
+- FDA Small Business Regulatory Education for Industry (REdI), CDRH Track
+- FDA Small Business Regulatory Education for Industry (REdI), CBER Track
 
 ## **PUBLICATIONS**
 
 1. [Artificial intelligence and machine learning‐aided drug discovery in central nervous system diseases: State‐of‐the‐arts and future directions](https://pubmed.ncbi.nlm.nih.gov/33295676/), Vatansever S., et. al, Medicinal Research Reviews, 2021.
 2. [Molecular subtyping of Alzheimer’s disease using RNA sequencing data reveals novel mechanisms and targets](https://pubmed.ncbi.nlm.nih.gov/33523961/), Neff RA, Wang M., Vatansever S., et.al., Science Advances, 2021.
 3. [Transformative Network Modeling of Multi-omics Data Reveals Detailed Circuits, Key Regulators, and Potential Therapeutics for Alzheimer’s Disease](https://pubmed.ncbi.nlm.nih.gov/33238137/), Wang M., ...Vatansever S., ...Zhang B., Neuron, 2021.
-4. [Tissue Specific Age Dependence of the Cell Receptors Involved in the SARS-CoV-2 Infection](https://www.biorxiv.org/content/10.1101/2021.07.13.452256v1), CV Forst, L Zeng, Q Wang, X Zhou, S Vatansever, Z Tu, B Zhang, bioRxiv, 2021.
-5. [Comparative effects of oncogenic mutations G12C, G12V, G13D, and Q61H on local conformations and dynamics of K-Ras](https://pubmed.ncbi.nlm.nih.gov/32373288/), Computational and Structural Biotechnology Journal, 2020.
-6. [Oncogenic G12D mutation alters local conformations and dynamics of K-Ras](https://pubmed.ncbi.nlm.nih.gov/31409810/), Vatansever S., Erman B. & Gümüş Z. H., Nature Scientific Reports, 2019.
-7. [Intrinsic K-Ras dynamics: A novel molecular dynamics data analysis method shows causality between residue pairs](https://pubmed.ncbi.nlm.nih.gov/27845397/), Vatansever S., Gumus Z. H. and Erman B., Nature Scientific Reports, 2016.
-8. [The interplay between viperin antiviral activity, lipid droplets and Junín mammarenavirus multiplication](https://pubmed.ncbi.nlm.nih.gov/29202415/), Mazzucco M. B., Talarico L. B., Vatansever S., et. al, Virology. 2018.
-9. [Antiviral activity of an N-allyl acridone against dengue virus", Journal of Biomedical Sciences](https://pubmed.ncbi.nlm.nih.gov/25908170/), Mazzucco M. B., Talarico L. B., Vatansever S., et. al, Journal of Biomedical Sciences, 2015.
+4. [14-3-3ζ Captures SET in the Cytoplasm, Mediating Tau Pathology and Cognitive Impairments](https://www.researchsquare.com/article/rs-744907/v1), Yiyuan Xia,..., S Vatansever, et al., Research Square, 2021.
+5. [Tissue Specific Age Dependence of the Cell Receptors Involved in the SARS-CoV-2 Infection](https://www.biorxiv.org/content/10.1101/2021.07.13.452256v1), CV Forst, L Zeng, Q Wang, X Zhou, S Vatansever, Z Tu, B Zhang, bioRxiv, 2021.
+6. [Comparative effects of oncogenic mutations G12C, G12V, G13D, and Q61H on local conformations and dynamics of K-Ras](https://pubmed.ncbi.nlm.nih.gov/32373288/), Computational and Structural Biotechnology Journal, 2020.
+7. [Oncogenic G12D mutation alters local conformations and dynamics of K-Ras](https://pubmed.ncbi.nlm.nih.gov/31409810/), Vatansever S., Erman B. & Gümüş Z. H., Nature Scientific Reports, 2019.
+8. [Intrinsic K-Ras dynamics: A novel molecular dynamics data analysis method shows causality between residue pairs](https://pubmed.ncbi.nlm.nih.gov/27845397/), Vatansever S., Gumus Z. H. and Erman B., Nature Scientific Reports, 2016.
+9. [The interplay between viperin antiviral activity, lipid droplets and Junín mammarenavirus multiplication](https://pubmed.ncbi.nlm.nih.gov/29202415/), Mazzucco M. B., Talarico L. B., Vatansever S., et. al, Virology. 2018.
+10. [Antiviral activity of an N-allyl acridone against dengue virus", Journal of Biomedical Sciences](https://pubmed.ncbi.nlm.nih.gov/25908170/), Mazzucco M. B., Talarico L. B., Vatansever S., et. al, Journal of Biomedical Sciences, 2015.
 
 
 ### **AI in CNS Drug Discovery**
